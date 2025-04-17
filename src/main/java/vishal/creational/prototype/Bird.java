@@ -1,6 +1,6 @@
 package vishal.creational.prototype;
 
-public class Bird implements cloneable<Bird>{
+public class Bird implements Cloneable<Bird>{
 	
 	private String name;
 	private double weight;

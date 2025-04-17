@@ -1,7 +1,8 @@
 package vishal.creational.prototype;
 
-public interface cloneable<E> {
+public interface Cloneable<T> {
 	
-	E clone();
+	
+	T clone();	
 
 }
